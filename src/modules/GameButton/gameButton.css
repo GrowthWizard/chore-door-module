@@ -1,0 +1,14 @@
+.start-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 20px auto;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    font-family: "Work Sans";
+    background-color: #eb6536;
+    color: #010165;
+    cursor: pointer;
+  }

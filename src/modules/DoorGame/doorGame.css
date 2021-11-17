@@ -1,0 +1,10 @@
+.door-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+  }
+
+  .door-frame {
+    cursor: pointer;
+    padding: 10px;
+  }
